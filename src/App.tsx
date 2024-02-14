@@ -35,7 +35,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://pouch.jumpshare.com/preview/NJp-00zRpN_pEFLV7OGybV9q-BJcd47fL-VZIHOrKnob_ZnG4D5B4ReIef9ux5_NW-zG8WmAfnDZLauPmDWx7o5ohOwOkkPTw6tOhJAo-AA"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Chcesz dostać prezent?</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
